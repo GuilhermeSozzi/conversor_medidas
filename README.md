@@ -1,4 +1,4 @@
-# Conversor simples de medidas - Um projeto usando Python
+# Conversor de medidas - Um projeto simples usando Python
 
 ## Sobre
 Projeto simples em Python que permite converter medidas com base nas opções pré-estabelecidas para escolha do usuário.
